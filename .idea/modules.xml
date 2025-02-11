@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../WebFramework.iml" filepath="$PROJECT_DIR$/../WebFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practica08_Lucia-Lucas.iml" filepath="$PROJECT_DIR$/.idea/Practica08_Lucia-Lucas.iml" />
     </modules>
   </component>
 </project>
